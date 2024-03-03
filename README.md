@@ -9,6 +9,10 @@
 <img align="Center" alt = "html5" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <div style= "display: inline_block"><br/>
 <img align="Center" alt = "html5" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div><br/>
+Em busca de uma oportunidade no mercado de Programação.
 
-</div>
+### MEU PERFIL:
+Tenho 23 Anos e sou estudante de Engenharia da Computação, atualmente estou otimizando meu conhecimento nas Linguagens Dart e Flutter, mas tambem possuo conhecimento em C++.
+
  
